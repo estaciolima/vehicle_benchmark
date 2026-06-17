@@ -1,0 +1,1166 @@
+{
+    "identificacao": {
+        "nome_veiculo": "BYD Song Plus GS 1.5",
+        "marca": "BYD",
+        "modelo": "Song Plus",
+        "versao": "GS 1.5",
+        "ano": 2027,
+        "preco": 249990
+    },
+    "ficha_tecnica": [
+        {
+            "secao": "Geral",
+            "atributos": [
+                {
+                    "nome": "Propulsão",
+                    "valor": "Híbrido plug-in",
+                    "unidade": null,
+                    "valor_original": "Híbrido plug-in",
+                    "observacao": null
+                },
+                {
+                    "nome": "Combustível",
+                    "valor": "Eletricidade/gasolina",
+                    "unidade": null,
+                    "valor_original": "Eletricidade/gasolina",
+                    "observacao": null
+                },
+                {
+                    "nome": "Procedência",
+                    "valor": "Importado",
+                    "unidade": null,
+                    "valor_original": "Importado",
+                    "observacao": null
+                },
+                {
+                    "nome": "Garantia",
+                    "valor": "6 anos",
+                    "unidade": null,
+                    "valor_original": "6 anos",
+                    "observacao": null
+                },
+                {
+                    "nome": "Configuração",
+                    "valor": "SUV",
+                    "unidade": null,
+                    "valor_original": "SUV",
+                    "observacao": null
+                },
+                {
+                    "nome": "Porte",
+                    "valor": "Médio",
+                    "unidade": null,
+                    "valor_original": "Médio",
+                    "observacao": null
+                },
+                {
+                    "nome": "Lugares",
+                    "valor": 5,
+                    "unidade": null,
+                    "valor_original": "5",
+                    "observacao": null
+                },
+                {
+                    "nome": "Portas",
+                    "valor": 4,
+                    "unidade": null,
+                    "valor_original": "4",
+                    "observacao": null
+                },
+                {
+                    "nome": "Série",
+                    "valor": "Ocean",
+                    "unidade": null,
+                    "valor_original": "Ocean",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Motor a combustão",
+            "atributos": [
+                {
+                    "nome": "Instalação",
+                    "valor": "Dianteiro",
+                    "unidade": null,
+                    "valor_original": "Dianteiro",
+                    "observacao": null
+                },
+                {
+                    "nome": "Aspiração",
+                    "valor": "Turbocompressor",
+                    "unidade": null,
+                    "valor_original": "Turbocompressor",
+                    "observacao": null
+                },
+                {
+                    "nome": "Disposição",
+                    "valor": "Transversal",
+                    "unidade": null,
+                    "valor_original": "Transversal",
+                    "observacao": null
+                },
+                {
+                    "nome": "Alimentação",
+                    "valor": "Injeção multiponto",
+                    "unidade": null,
+                    "valor_original": "Injeção multiponto",
+                    "observacao": null
+                },
+                {
+                    "nome": "Cilindros",
+                    "valor": "4 em linha",
+                    "unidade": null,
+                    "valor_original": "4 em linha",
+                    "observacao": null
+                },
+                {
+                    "nome": "Comando de válvulas",
+                    "valor": "Duplo no cabeçote",
+                    "unidade": null,
+                    "valor_original": "Duplo no cabeçote",
+                    "observacao": null
+                },
+                {
+                    "nome": "Tuchos",
+                    "valor": "Hidráulicos",
+                    "unidade": null,
+                    "valor_original": "Hidráulicos",
+                    "observacao": null
+                },
+                {
+                    "nome": "Variação do comando",
+                    "valor": "Admissão",
+                    "unidade": null,
+                    "valor_original": "Admissão",
+                    "observacao": null
+                },
+                {
+                    "nome": "Acionamento comando",
+                    "valor": "Corrente",
+                    "unidade": null,
+                    "valor_original": "Corrente",
+                    "observacao": null
+                },
+                {
+                    "nome": "Válvulas por cilindro",
+                    "valor": 4,
+                    "unidade": null,
+                    "valor_original": "4",
+                    "observacao": null
+                },
+                {
+                    "nome": "Deslocamento",
+                    "valor": null,
+                    "unidade": "cm3",
+                    "valor_original": "cm3",
+                    "observacao": null
+                },
+                {
+                    "nome": "Potência máxima",
+                    "valor": null,
+                    "unidade": "cv",
+                    "valor_original": "cv a 6000 rpm",
+                    "observacao": "6000 rpm"
+                },
+                {
+                    "nome": "Torque máximo",
+                    "valor": 22.4,
+                    "unidade": "kgfm",
+                    "valor_original": "22,4 kgfm a 4500 rpm",
+                    "observacao": "4500 rpm"
+                },
+                {
+                    "nome": "Peso/potência",
+                    "valor": 13.77,
+                    "unidade": "kg/cv",
+                    "valor_original": "13,77 kg/cv",
+                    "observacao": null
+                },
+                {
+                    "nome": "Torque específico",
+                    "valor": 15.0,
+                    "unidade": "kgfm/litro",
+                    "valor_original": "15,0 kgfm/litro",
+                    "observacao": null
+                },
+                {
+                    "nome": "Peso/torque",
+                    "valor": 79.9,
+                    "unidade": "kg/kgfm",
+                    "valor_original": "79,9 kg/kgfm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Potência específica",
+                    "valor": 86.8,
+                    "unidade": "cv/litro",
+                    "valor_original": "86,8 cv/litro",
+                    "observacao": null
+                },
+                {
+                    "nome": "Viscosidade do óleo",
+                    "valor": "0W-203",
+                    "unidade": null,
+                    "valor_original": "0W-203",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Motor elétrico",
+            "atributos": [
+                {
+                    "nome": "Potência",
+                    "valor": 204,
+                    "unidade": "cv",
+                    "valor_original": "204 cv (dianteiro)",
+                    "observacao": "dianteiro"
+                },
+                {
+                    "nome": "Torque",
+                    "valor": 30.6,
+                    "unidade": "kgfm",
+                    "valor_original": "30,6 kgfm (dianteiro)",
+                    "observacao": "dianteiro"
+                },
+                {
+                    "nome": "Potência combinada",
+                    "valor": 239,
+                    "unidade": "cv",
+                    "valor_original": "239 cv",
+                    "observacao": null
+                },
+                {
+                    "nome": "Torque combinado",
+                    "valor": 40.8,
+                    "unidade": "kgfm",
+                    "valor_original": "40,8 kgfm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Peso/potência sistema",
+                    "valor": 7.49,
+                    "unidade": "kg/cv",
+                    "valor_original": "7,49 kg/cv",
+                    "observacao": null
+                },
+                {
+                    "nome": "Peso/torque sistema",
+                    "valor": 43.87,
+                    "unidade": "kg/kgfm",
+                    "valor_original": "43,87 kg/kgfm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Autonomia elétrica",
+                    "valor": 99,
+                    "unidade": "km",
+                    "valor_original": "99 km",
+                    "observacao": null
+                },
+                {
+                    "nome": "Capacidade da bateria",
+                    "valor": 26.6,
+                    "unidade": "kWh",
+                    "valor_original": "26,6 kWh",
+                    "observacao": null
+                },
+                {
+                    "nome": "Potência de recarga",
+                    "valor": 6.6,
+                    "unidade": "kW",
+                    "valor_original": "6,6 kW (AC)",
+                    "observacao": "AC"
+                },
+                {
+                    "nome": "Potência de recarga",
+                    "valor": 18,
+                    "unidade": "kW",
+                    "valor_original": "18 kW (DC)",
+                    "observacao": "DC"
+                }
+            ]
+        },
+        {
+            "secao": "Transmissão",
+            "atributos": [
+                {
+                    "nome": "Tração",
+                    "valor": "Dianteira",
+                    "unidade": null,
+                    "valor_original": "Dianteira",
+                    "observacao": null
+                },
+                {
+                    "nome": "Câmbio",
+                    "valor": "Automático de 1 marcha",
+                    "unidade": null,
+                    "valor_original": "Automático de 1 marcha",
+                    "observacao": null
+                },
+                {
+                    "nome": "Acoplamento",
+                    "valor": "Embreagem multidisco",
+                    "unidade": null,
+                    "valor_original": "Embreagem multidisco",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Suspensão",
+            "atributos": [
+                {
+                    "nome": "Dianteira",
+                    "valor": "Independente, McPherson",
+                    "unidade": null,
+                    "valor_original": "Independente, McPherson",
+                    "observacao": null
+                },
+                {
+                    "nome": "Elemento elástico",
+                    "valor": "Mola helicoidal",
+                    "unidade": null,
+                    "valor_original": "Mola helicoidal",
+                    "observacao": "dianteira"
+                },
+                {
+                    "nome": "Traseira",
+                    "valor": "Independente, multibraço",
+                    "unidade": null,
+                    "valor_original": "Independente, multibraço",
+                    "observacao": null
+                },
+                {
+                    "nome": "Elemento elástico",
+                    "valor": "Mola helicoidal",
+                    "unidade": null,
+                    "valor_original": "Mola helicoidal",
+                    "observacao": "traseira"
+                }
+            ]
+        },
+        {
+            "secao": "Freios",
+            "atributos": [
+                {
+                    "nome": "Dianteiros",
+                    "valor": "Disco ventilado",
+                    "unidade": null,
+                    "valor_original": "Disco ventilado",
+                    "observacao": null
+                },
+                {
+                    "nome": "Traseiros",
+                    "valor": "Disco sólido",
+                    "unidade": null,
+                    "valor_original": "Disco sólido",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Direção",
+            "atributos": [
+                {
+                    "nome": "Assistência",
+                    "valor": "Elétrica",
+                    "unidade": null,
+                    "valor_original": "Elétrica",
+                    "observacao": null
+                },
+                {
+                    "nome": "Diâmetro de giro",
+                    "valor": 11,
+                    "unidade": "m",
+                    "valor_original": "11 m",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Pneus",
+            "atributos": [
+                {
+                    "nome": "Dianteiros",
+                    "valor": "235/50 R19",
+                    "unidade": null,
+                    "valor_original": "235/50 R19",
+                    "observacao": null
+                },
+                {
+                    "nome": "Altura do flanco",
+                    "valor": 118,
+                    "unidade": "mm",
+                    "valor_original": "118 mm",
+                    "observacao": "dianteiros"
+                },
+                {
+                    "nome": "Traseiros",
+                    "valor": "235/50 R19",
+                    "unidade": null,
+                    "valor_original": "235/50 R19",
+                    "observacao": null
+                },
+                {
+                    "nome": "Altura do flanco",
+                    "valor": 118,
+                    "unidade": "mm",
+                    "valor_original": "118 mm",
+                    "observacao": "traseiros"
+                },
+                {
+                    "nome": "Estepe",
+                    "valor": "Kit de reparo",
+                    "unidade": null,
+                    "valor_original": "Kit de reparo",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Dimensões",
+            "atributos": [
+                {
+                    "nome": "Comprimento",
+                    "valor": null,
+                    "unidade": "mm",
+                    "valor_original": "mm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Largura",
+                    "valor": 1890,
+                    "unidade": "mm",
+                    "valor_original": "1890 mm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Distância entre-eixos",
+                    "valor": 2765,
+                    "unidade": "mm",
+                    "valor_original": "2765 mm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Altura",
+                    "valor": 1670,
+                    "unidade": "mm",
+                    "valor_original": "1670 mm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Bitola dianteira",
+                    "valor": 1630,
+                    "unidade": "mm",
+                    "valor_original": "1630 mm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Bitola traseira",
+                    "valor": 1630,
+                    "unidade": "mm",
+                    "valor_original": "1630 mm",
+                    "observacao": null
+                },
+                {
+                    "nome": "Porta-malas",
+                    "valor": 552,
+                    "unidade": "litros",
+                    "valor_original": "552 litros",
+                    "observacao": null
+                },
+                {
+                    "nome": "Tanque de combustível",
+                    "valor": 57,
+                    "unidade": "litros",
+                    "valor_original": "57 litros",
+                    "observacao": null
+                },
+                {
+                    "nome": "Peso",
+                    "valor": null,
+                    "unidade": "kg",
+                    "valor_original": "kg",
+                    "observacao": null
+                },
+                {
+                    "nome": "Carga útil",
+                    "valor": 410,
+                    "unidade": "kg",
+                    "valor_original": "410 kg",
+                    "observacao": null
+                },
+                {
+                    "nome": "Ângulo de entrada",
+                    "valor": 19,
+                    "unidade": "graus",
+                    "valor_original": "19 graus",
+                    "observacao": null
+                },
+                {
+                    "nome": "Ângulo de saída",
+                    "valor": 21,
+                    "unidade": "graus",
+                    "valor_original": "21 graus",
+                    "observacao": null
+                },
+                {
+                    "nome": "Altura mínima do solo",
+                    "valor": 180,
+                    "unidade": "mm",
+                    "valor_original": "180 mm",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Desempenho",
+            "atributos": [
+                {
+                    "nome": "Velocidade máxima",
+                    "valor": 180,
+                    "unidade": "km/h",
+                    "valor_original": "180 km/h",
+                    "observacao": null
+                },
+                {
+                    "nome": "Aceleração 0-100 km/h",
+                    "valor": 8.1,
+                    "unidade": "s",
+                    "valor_original": "8,1 s",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Consumo",
+            "atributos": [
+                {
+                    "nome": "Urbano",
+                    "valor": 14.3,
+                    "unidade": "km/l",
+                    "valor_original": "14,3 km/l",
+                    "observacao": null
+                },
+                {
+                    "nome": "Rodoviário",
+                    "valor": 11.3,
+                    "unidade": "km/l",
+                    "valor_original": "11,3 km/l",
+                    "observacao": null
+                }
+            ]
+        },
+        {
+            "secao": "Autonomia",
+            "atributos": [
+                {
+                    "nome": "Urbana",
+                    "valor": 815,
+                    "unidade": "km",
+                    "valor_original": "815 km",
+                    "observacao": null
+                },
+                {
+                    "nome": "Rodoviária",
+                    "valor": 644,
+                    "unidade": "km",
+                    "valor_original": "644 km",
+                    "observacao": null
+                }
+            ]
+        }
+    ],
+    "equipamentos": [
+        {
+            "categoria": "Segurança",
+            "itens": [
+                {
+                    "nome": "Freios ABS",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Freios ABS"
+                },
+                {
+                    "nome": "Airbags frontais",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Airbags frontais"
+                },
+                {
+                    "nome": "Airbags laterais",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Airbags laterais"
+                },
+                {
+                    "nome": "Airbags de cortina",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Airbags de cortina"
+                },
+                {
+                    "nome": "Alarme antifurto perimétrico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alarme antifurto perimétrico"
+                },
+                {
+                    "nome": "Alarme antifurto volumétrico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alarme antifurto volumétrico"
+                },
+                {
+                    "nome": "Câmera traseira para manobras",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Câmera traseira para manobras"
+                },
+                {
+                    "nome": "Câmeras para visão de 360 graus",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Câmeras para visão de 360 graus"
+                },
+                {
+                    "nome": "Câmera com função de chassi transparente",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Câmera com função de chassi transparente"
+                },
+                {
+                    "nome": "Cintos de três pontos para todos os ocupantes",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Cintos de três pontos para todos os ocupantes"
+                },
+                {
+                    "nome": "Encosto de cabeça para todos os ocupantes",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Encosto de cabeça para todos os ocupantes"
+                },
+                {
+                    "nome": "Controle de estabilidade",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle de estabilidade"
+                },
+                {
+                    "nome": "Controle de tração",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle de tração"
+                },
+                {
+                    "nome": "Faróis de LED",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Faróis de LED"
+                },
+                {
+                    "nome": "Faróis com refletores duplos",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Faróis com refletores duplos"
+                },
+                {
+                    "nome": "Faróis com regulagem de altura",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Faróis com regulagem de altura"
+                },
+                {
+                    "nome": "Limpador e lavador do vidro traseiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Limpador e lavador do vidro traseiro"
+                },
+                {
+                    "nome": "Luz de neblina traseira",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Luz de neblina traseira"
+                },
+                {
+                    "nome": "Repetidores laterais das luzes de direção",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Repetidores laterais das luzes de direção"
+                },
+                {
+                    "nome": "Travamento central das portas",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Travamento central das portas"
+                },
+                {
+                    "nome": "Assistente de desembarque",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Assistente de desembarque"
+                },
+                {
+                    "nome": "Luz de condução diurna",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Luz de condução diurna"
+                },
+                {
+                    "nome": "Controle automático de descida",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle automático de descida"
+                },
+                {
+                    "nome": "Desembaçador do vidro traseiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Desembaçador do vidro traseiro"
+                },
+                {
+                    "nome": "ISOFIX para fixação de cadeira infantil",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "ISOFIX para fixação de cadeira infantil"
+                },
+                {
+                    "nome": "Alerta de colisão frontal",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alerta de colisão frontal"
+                },
+                {
+                    "nome": "Alerta de tráfego cruzado traseiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alerta de tráfego cruzado traseiro"
+                },
+                {
+                    "nome": "Monitoramento de pressão dos pneus",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Monitoramento de pressão dos pneus"
+                },
+                {
+                    "nome": "Assistente de partida em rampa",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Assistente de partida em rampa"
+                },
+                {
+                    "nome": "Sensores de estacionamento dianteiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Sensores de estacionamento dianteiro"
+                },
+                {
+                    "nome": "Sensores de estacionamento traseiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Sensores de estacionamento traseiro"
+                },
+                {
+                    "nome": "Assistente de farol alto",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Assistente de farol alto"
+                },
+                {
+                    "nome": "Alerta de ponto cego",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alerta de ponto cego"
+                },
+                {
+                    "nome": "Alerta de mudança de faixa",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alerta de mudança de faixa"
+                },
+                {
+                    "nome": "Assistente de permanência em faixa",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Assistente de permanência em faixa"
+                },
+                {
+                    "nome": "Frenagem automática de emergência",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Frenagem automática de emergência"
+                },
+                {
+                    "nome": "Assistência na recuperação veicular",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Assistência na recuperação veicular"
+                },
+                {
+                    "nome": "Freios a disco nas quatro rodas",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Freios a disco nas quatro rodas"
+                },
+                {
+                    "nome": "Frenagem automática em manobras",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Frenagem automática em manobras"
+                }
+            ]
+        },
+        {
+            "categoria": "Conforto",
+            "itens": [
+                {
+                    "nome": "Ar-condicionado",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ar-condicionado"
+                },
+                {
+                    "nome": "Controle automático de temperatura",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle automático de temperatura"
+                },
+                {
+                    "nome": "Ionizador/purificador de ar",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ionizador/purificador de ar"
+                },
+                {
+                    "nome": "Zonas de ar-condicionado: 2",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Zonas de ar-condicionado: 2"
+                },
+                {
+                    "nome": "Ar quente",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ar quente"
+                },
+                {
+                    "nome": "Saída de ar para o banco traseiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Saída de ar para o banco traseiro"
+                },
+                {
+                    "nome": "Direção assistida",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Direção assistida"
+                },
+                {
+                    "nome": "Banco do motorista com ajuste de altura",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco do motorista com ajuste de altura"
+                },
+                {
+                    "nome": "Apoio de braço para o motorista",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Apoio de braço para o motorista"
+                },
+                {
+                    "nome": "Apoio de braço central no banco traseiro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Apoio de braço central no banco traseiro"
+                },
+                {
+                    "nome": "Câmbio automático",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Câmbio automático"
+                },
+                {
+                    "nome": "Ajuste do volante em altura",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ajuste do volante em altura"
+                },
+                {
+                    "nome": "Ajuste do volante em profundidade",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ajuste do volante em profundidade"
+                },
+                {
+                    "nome": "Cintos de segurança com ajuste de altura",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Cintos de segurança com ajuste de altura"
+                },
+                {
+                    "nome": "Bancos revestidos em couro",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Bancos revestidos em couro"
+                },
+                {
+                    "nome": "Banco do motorista com ajuste elétrico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco do motorista com ajuste elétrico"
+                },
+                {
+                    "nome": "Banco do passageiro com ajuste elétrico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco do passageiro com ajuste elétrico"
+                },
+                {
+                    "nome": "Banco do motorista com ventilação",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco do motorista com ventilação"
+                },
+                {
+                    "nome": "Controle automático de velocidade",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle automático de velocidade"
+                },
+                {
+                    "nome": "Controle de velocidade adaptativo",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle de velocidade adaptativo"
+                },
+                {
+                    "nome": "Ajuste de velocidade conforme sinalização viária",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ajuste de velocidade conforme sinalização viária"
+                },
+                {
+                    "nome": "Assistente de centralização em faixa",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Assistente de centralização em faixa"
+                },
+                {
+                    "nome": "Limitador de velocidade",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Limitador de velocidade"
+                },
+                {
+                    "nome": "Controle elétrico dos vidros dianteiros",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle elétrico dos vidros dianteiros"
+                },
+                {
+                    "nome": "Controle elétrico dos vidros traseiros",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Controle elétrico dos vidros traseiros"
+                },
+                {
+                    "nome": "Faróis com acendimento automático",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Faróis com acendimento automático"
+                },
+                {
+                    "nome": "Limpador de para-brisa automático",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Limpador de para-brisa automático"
+                },
+                {
+                    "nome": "Ajuste elétrico dos retrovisores",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Ajuste elétrico dos retrovisores"
+                },
+                {
+                    "nome": "Retrovisores rebativeis eletricamente",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Retrovisores rebativeis eletricamente"
+                },
+                {
+                    "nome": "Retrovisor interno fotocrômico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Retrovisor interno fotocrômico"
+                },
+                {
+                    "nome": "Retrovisor externo com aquecimento",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Retrovisor externo com aquecimento"
+                },
+                {
+                    "nome": "Rodas de liga leve",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Rodas de liga leve"
+                },
+                {
+                    "nome": "Teto solar elétrico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Teto solar elétrico"
+                },
+                {
+                    "nome": "Teto panorâmico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Teto panorâmico"
+                },
+                {
+                    "nome": "Banco traseiro bipartido",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco traseiro bipartido"
+                },
+                {
+                    "nome": "Banco traseiro rebatível",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco traseiro rebatível"
+                },
+                {
+                    "nome": "Banco traseiro reclinável",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Banco traseiro reclinável"
+                },
+                {
+                    "nome": "Destravamento interno/remoto do porta-malas",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Destravamento interno/remoto do porta-malas"
+                },
+                {
+                    "nome": "Luz no porta-malas",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Luz no porta-malas"
+                },
+                {
+                    "nome": "Luz no porta-luvas",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Luz no porta-luvas"
+                },
+                {
+                    "nome": "Luz de teto traseira",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Luz de teto traseira"
+                },
+                {
+                    "nome": "Destravamento interno da tampa de combustível",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Destravamento interno da tampa de combustível"
+                },
+                {
+                    "nome": "Chave presencial",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Chave presencial"
+                },
+                {
+                    "nome": "Chave digital via NFC ou Bluetooth",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Chave digital via NFC ou Bluetooth"
+                },
+                {
+                    "nome": "Sistema start-stop",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Sistema start-stop"
+                },
+                {
+                    "nome": "Recuperação de energia cinética",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Recuperação de energia cinética"
+                },
+                {
+                    "nome": "Carregamento bidirecional",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Carregamento bidirecional"
+                },
+                {
+                    "nome": "Acionamento remoto do motor",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Acionamento remoto do motor"
+                },
+                {
+                    "nome": "Freio de estacionamento eletromecânico",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Freio de estacionamento eletromecânico"
+                },
+                {
+                    "nome": "Auto Hold",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Auto Hold"
+                },
+                {
+                    "nome": "Tampa traseira motorizada",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Tampa traseira motorizada"
+                },
+                {
+                    "nome": "Alças de segurança no teto",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Alças de segurança no teto"
+                },
+                {
+                    "nome": "Capô sustentado por mola a gás",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Capô sustentado por mola a gás"
+                },
+                {
+                    "nome": "Suspensão independente nas quatro rodas",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Suspensão independente nas quatro rodas"
+                }
+            ]
+        },
+        {
+            "categoria": "Infotenimento",
+            "itens": [
+                {
+                    "nome": "Rádio",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Rádio"
+                },
+                {
+                    "nome": "Conexão USB",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Conexão USB"
+                },
+                {
+                    "nome": "Conexão Bluetooth",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Conexão Bluetooth"
+                },
+                {
+                    "nome": "Tomada de 12 volts",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Tomada de 12 volts"
+                },
+                {
+                    "nome": "Navegador GPS",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Navegador GPS"
+                },
+                {
+                    "nome": "Volante multifuncional",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Volante multifuncional"
+                },
+                {
+                    "nome": "Computador de bordo",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Computador de bordo"
+                },
+                {
+                    "nome": "Indicador de temperatura externa",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Indicador de temperatura externa"
+                },
+                {
+                    "nome": "Espelhamento da tela do celular",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Espelhamento da tela do celular"
+                },
+                {
+                    "nome": "Sistema Google integrado",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Sistema Google integrado"
+                },
+                {
+                    "nome": "Carregador de celular por indução",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Carregador de celular por indução"
+                },
+                {
+                    "nome": "Informação de trânsito em tempo real",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Informação de trânsito em tempo real"
+                },
+                {
+                    "nome": "Reconhecimento de placas de trânsito",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Reconhecimento de placas de trânsito"
+                },
+                {
+                    "nome": "Sistema de som premium Infinity",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Sistema de som premium Infinity"
+                },
+                {
+                    "nome": "Subwoofer",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Subwoofer"
+                },
+                {
+                    "nome": "Head-up display",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Head-up display"
+                },
+                {
+                    "nome": "Leitor de cartão de memória",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Leitor de cartão de memória"
+                },
+                {
+                    "nome": "Comandos ao veículo através de aplicativo",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Comandos ao veículo através de aplicativo"
+                },
+                {
+                    "nome": "Informações do veículo através de aplicativo",
+                    "disponibilidade": "nao_informado",
+                    "valor_original": "Informações do veículo através de aplicativo"
+                }
+            ]
+        }
+    ],
+    "metadados_extracao": {
+        "fonte": "Carros na Web",
+        "paginas_utilizadas": [
+            1
+        ],
+        "campos_incertos": [
+            "Deslocamento",
+            "Potência máxima",
+            "Comprimento",
+            "Peso"
+        ],
+        "observacoes": "Alguns campos da ficha técnica aparecem sem valor numérico no texto fornecido; foram mantidos com valor nulo e unidade preservada quando possível. A disponibilidade dos equipamentos não está explicitamente marcada por item no trecho fornecido."
+    }
+}
