@@ -1,298 +1,248 @@
-﻿Atributo veicular,BYD Song Plus GS 1.5 2027,Jeep Compass Blackhawk 2.0 2026,Renault Boreal Iconic 1.3 2026,Toyota Corolla Cross XRX 2.0 2026,Volkswagen Taos Comfortline 1.4 TSi 2026
-Ano,2027,2026,2026,2026,2026
-Preço,R$ 249,R$ 224.6,R$ 214.990,R$ 194.700,R$ 199.990
-IPVA,R$ 10.0,R$ 8.984,R$ 8.600,R$ 7.788,R$ 8.000
-Seguro,R$ 6.75,R$ 7.187,R$ 5.805,R$ 6.230,R$ 5.400
-Revisões,R$ 6.38,R$ 4.127,R$ 6.316 até 60.000,R$ 4.782 até 50.000,R$ 3.331 até 60.000
-Procedência,Importa,Naciona,Nacional,Nacional,Importado
-Garantia,6 anos,5 anos,5 anos,10 anos,3 anos
-Porte,Médio,Médio,Médio,Médio,Médio
-Lugares,5,5,5,5,5
-Portas,4,4,4,4,4
-Série,Ocean,,,,
-Índice,CNW,CNW,CNW,CNW,CNW
-Euro,NCAP,,,,
-Ranking,CNW,CNW,CNW,CNW,CNW
-Instalação,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro
-Aspiração,Turboco,Turbocom,Turbocompressor,Natural,Turbocompressor
-Disposição,Transversal,Transversal,Transversal,Transversal,Transversal
-Alimentação,Injeção,Injeção d,Injeção direta,,Injeção direta
-Cilindros,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha
-Tuchos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos
-Variação do comando,Admiss,Admissã,Admissão e escape,Admissão e escape,Admissão e escape
-Acionamento comando,Corrent,Corrente,Corrente,Corrente,Correia dentada
-Válvulas por cilindro,4,4,4,4,4
-cm3,Presente,,,,
-cv,a,,,,
-Torque máximo,"22,4 kg",,,,
-Peso/potência,"13,77 kg/cv",,,,
-Torque específico,"15,0 kg",,,,
-Peso/torque,"79,9 kg/kgfm",,,,
-Potência específica,"86,8 cv/",,,,
-Viscosidade do óleo,0W-203,,,,
-Potência,204 cv (dianteiro),,,,
-Torque,"30,6 kg",,,,
-Potência combinada,239 cv,,,,
-Torque combinado,"40,8 kg",,,,
-Peso/potência sistema,"7,49 kg/cv",,,,
-Peso/torque sistema,"43,87 k",,,,
-Autonomia,elétrica 99 km,,,,
-Capacidade da bateria,"26,6 kW",,,,
-Potência de recarga,"6,6 kW (AC)",,,,
-Tração,Dianteira,Integral sob demanda,Dianteira,Dianteira,Dianteira
-Câmbio,Automá,Automát,,,
-Acoplamento,Embrea,Convers,Embreagem dupla b,Conversor de torque,Conversor de torque
-"Dianteira Independente,",McPherson,McPherson,McPherson,McPherson,McPherson
-Elemento elástico,Mola he,Mola hel,Mola helicoidal,Mola helicoidal,Mola helicoidal
-"Traseira Independente,",multibraço,McPherson,,,multibraço
-Dianteiros,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado
-Traseiros,Disco s,Disco só,Disco sólido,Disco sólido,Disco sólido
-Assistência,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica
-Diâmetro de giro,11 m,"11,3 m",11 m,11 m,"11,5 m"
-Altura do flanco,118 mm,106 mm,113 mm,113 mm,118 mm
-Estepe,Kit de reparo,165/80 R17,Presente,155/70 R17,125/70 R18
-mm,Presente,Presente,Presente,Presente,Presente
-Largura,1890 m,1819 mm,1841 mm,1825 mm,1841 mm
-Distância entre-eixos,2765 mm,2636 mm,2702 mm,2640 mm,2680 mm
-Altura,1670 m,1640 mm,1646 mm,1620 mm,1626 mm
-Bitola,dianteira 1630 mm,dianteira 1550 mm,dianteira 1560 mm,dianteira 1559 mm,dianteira 1570 mm
-Porta-malas,552 litros,410 litros,522 litros,440 litros,498 litros
-Tanque de combustível,57 litros,55 litros,50 litros,47 litros,48 litros
-kg,Presente,Presente,Presente,Presente,Presente
-Carga útil,410 kg,400 kg,,450 kg,464 kg
-Ângulo de entrada,19 graus,"21,7 graus","22,2 graus",21 graus,19 graus
-Ângulo de saída,21 grau,"28,5 gra","26,6 graus",36 graus,"26,3 graus"
-Altura mínima do solo,180 mm,198 mm,213 mm,161 mm,185 mm
-Velocidade máxima,180 km/h,228 km/h,180 km/h,195 km/h,197 km/h
-Aceleração,"0-100 km/h 8,1 s","0-100 km/h 6,3 s","0-100 km/h 9,5 s","0-100 km/h 9,8 s",0-100 km/h 9 s
-Urbano,"14,3 km/l","8,5 km/l","7,8 km/l (A)","7,6 km/l (A)","7,7 km/l (A)"
-Rodoviário,"11,3 km","10,8 km/","9,4 km/l (A)","8,8 km/l (A)","9,3 km/l (A)"
-Urbana,815 km,468 km,390 km (A),357 km (A),370 km (A)
-Rodoviária,644 km,594 km,470 km (A),414 km (A),446 km (A)
-Freios ABS,Presente,Presente,Presente,Presente,Presente
-Airbags frontais,Presente,Presente,Presente,Presente,Presente
-Airbags laterais,Presente,Presente,Presente,Presente,Presente
-Airbags de cortina,Presente,Presente,Presente,Presente,Presente
-Alarme antifurto perimétrico,Presente,Presente,Presente,Presente,Presente
-Alarme antifurto volumétrico,Presente,,,Presente,Presente
-Câmera traseira para manobras,Presente,,Presente,Presente,Presente
-Câmeras para visão de 360 gr,Presente,,,,
-Câmera com função de chassi transparente,Presente,,,,
-Cintos de três pontos para todo,Presente,,Presente,,
-Encosto de cabeça para todos os ocupantes,Presente,,Presente,,Presente
-Faróis de LED,Presente,Presente,Presente,Presente,Presente
-Faróis com refletores duplos,Presente,Presente,Presente,Presente,Presente
-Faróis com regulagem de altur,Presente,,,,
-Limpador e lavador do vidro traseiro,Presente,Presente,,Presente,Presente
-Luz de neblina traseira,Presente,,Presente,Presente,
-Repetidores laterais das luzes de direção,Presente,,,Presente,
-Travamento central das portas,Presente,Presente,Presente,,Presente
-Assistente de desembarque,Presente,,Presente,,
-Luz de condução diurna,Presente,Presente,Presente,Presente,Presente
-Desembaçador do vidro traseir,Presente,,,,
-ISOFIX para fixação de cadeira infantil,Presente,Presente,Presente,Presente,
-Alerta de colisão frontal,Presente,Presente,Presente,Presente,Presente
-Alerta de tráfego cruzado traseiro,Presente,Presente,Presente,Presente,
-Monitoramento de pressão dos,Presente,,Presente,,
-Assistente de partida em rampa,Presente,Presente,Presente,,Presente
-Sensores de estacionamento d,Presente,,,,
-Sensores de estacionamento traseiro,Presente,Presente,Presente,,Presente
-Assistente de farol alto,Presente,Presente,Presente,Presente,Presente
-Alerta de ponto cego,Presente,Presente,Presente,Presente,
-Alerta de mudança de faixa,Presente,Presente,Presente,Presente,
-Assistente de permanência em faixa,Presente,,,,
-Frenagem automática de emer,Presente,,,,
-Assistência na recuperação veicular,Presente,Presente,,Presente,Presente
-Freios a disco nas quatro roda,Presente,,,,
-Frenagem automática em manobras,Presente,,,,Presente
-Ar-condicionado,Presente,Presente,Presente,Presente,Presente
-Ionizador/purificador de ar,Presente,Presente,,,
-Zonas de ar-condicionado,2,2,2,2,2
-Ar quente,Presente,Presente,Presente,Presente,Presente
-Saída de ar para o banco trase,Presente,,,,
-Direção assistida,Presente,Presente,Presente,Presente,Presente
-Banco do motorista com ajuste,Presente,,Presente,,
-Apoio de braço para o motorista,Presente,Presente,Presente,,
-Apoio de braço central no banc,Presente,,,,
-Câmbio automático,Presente,Presente,Presente,Presente,Presente
-Ajuste do volante em altura,Presente,Presente,Presente,Presente,Presente
-Ajuste do volante em profundidade,Presente,,Presente,,
-Cintos de segurança com ajus,Presente,,,,
-Bancos revestidos em couro,Presente,Presente,Presente,Presente,
-Banco do passageiro com ajuste elétrico,Presente,,Presente,,
-Banco do motorista com ventila,Presente,,,,
-Ajuste de velocidade conforme sinalização viária,Presente,,,,
-Assistente de centralização em,Presente,,,,
-Limitador de velocidade,Presente,Presente,Presente,,Presente
-Faróis com acendimento autom,Presente,,,,
-Limpador de para-brisa automático,Presente,Presente,,,
-Ajuste elétrico dos retrovisores,Presente,,Presente,Presente,Presente
-Retrovisores rebativeis eletricamente,Presente,Presente,,,
-Retrovisor interno fotocrômico,Presente,Presente,Presente,Presente,Presente
-Retrovisor externo com aquecimento,Presente,,,,
-Rodas de liga leve,Presente,Presente,Presente,Presente,Presente
-Teto solar elétrico,Presente,Presente,Presente,Presente,
-Teto panorâmico,Presente,Presente,Presente,,
-Banco traseiro bipartido,Presente,Presente,Presente,Presente,Presente
-Banco traseiro rebatível,Presente,Presente,Presente,Presente,Presente
-Banco traseiro reclinável,Presente,,,Presente,
-Destravamento interno/remoto,Presente,,,,
-Luz no porta-malas,Presente,Presente,Presente,Presente,Presente
-Luz no porta-luvas,Presente,Presente,Presente,,Presente
-Luz de teto traseira,Presente,Presente,Presente,Presente,Presente
-Destravamento interno da tam,Presente,,,,
-Chave presencial,Presente,Presente,Presente,Presente,Presente
-Chave digital via NFC ou Bluet,Presente,,,,
-Sistema start-stop,Presente,Presente,Presente,,Presente
-Recuperação de energia cinéti,Presente,,,,
-Carregamento bidirecional,Presente,,,,
-Acionamento remoto do motor,Presente,Presente,Presente,,
-Freio de estacionamento eletromecânico,Presente,,Presente,Presente,Presente
-Auto Hold,Presente,Presente,Presente,Presente,
-Tampa traseira motorizada,Presente,Presente,Presente,Presente,
-Alças de segurança no teto,Presente,Presente,,Presente,Presente
-Capô sustentado por mola a gás,Presente,,,,
-Suspensão independente nas,Presente,Presente,,,
-Rádio,Presente,Presente,Presente,Presente,Presente
-Tomada de 12 volts,Presente,Presente,Presente,Presente,Presente
-Navegador GPS,Presente,Presente,Presente,,
-Volante multifuncional,Presente,Presente,Presente,Presente,Presente
-Indicador de temperatura exter,Presente,,,,
-Espelhamento da tela do celular,Presente,,Presente,,
-Sistema Google integrado,Presente,,Presente,,
-Carregador de celular por indução,Presente,Presente,Presente,Presente,Presente
-Informação de trânsito em tem,Presente,Presente,,,
-Reconhecimento de placas de trânsito,Presente,Presente,Presente,,
-Sistema de som premium Infin,Presente,,,,
-Subwoofer,Presente,Presente,,,
-Head-up display,Presente,,,,
-Leitor de cartão de memória,Presente,,,,
-Informações do veículo através de aplicativo,Presente,,,Presente,Presente
-Desvalorização,,"19,78%",,"1,46%",
-Propulsão,,Combus,Combustão,Combustão,Combustão
-Geração,,2,,,
-Plataforma,,Small W,RGMP,TNGA,MQB
-Cilindrada unitária,,499 cm3,333 cm3,497 cm3,349 cm3
-Diâmetro do cilindro,,84 mm,"72,2 mm","80,5 mm","74,5 mm"
-Razão de compressão 10,,1,,,1
-Curso do pistão,,90 mm,"81,4 mm","97,6 mm",80 mm
-Deslocamento - cm3,,Presente,Presente,Presente,Presente
-Potência máxima - cv,,a,,,
-Potência máxima - Código do motor,,Hurricane T4,HR13,M20A-FKB,EA211
-Potência máxima - Torque máximo,,"40,8 kgfm","27,5 kgfm (A) 27,5 k","21,3 kgfm (A) 20,8 k","25,5 kgfm (A) 25,5 k"
-Potência máxima - Peso/potência,,"6,32 kg/cv","8,82 kg/cv","8,11 kg/cv","9,71 kg/cv"
-Potência máxima - Torque específico,,"20,5 kgfm","20,6 kgfm/litro","10,7 kgfm/litro","18,3 kgfm/litro"
-Potência máxima - Peso/torque,,"42,2 kg/kgfm","52,3 kg/kgfm","66,7 kg/kgfm","57,1 kg/kgfm"
-Potência máxima - Potência específica,,"136,3 cv","122,4 cv/litro","88,1 cv/litro","107,5 cv/litro"
-Potência máxima - Rotação máxima,,5800 rpm,6000 rpm,,6300 rpm
-Código do câmbio,,ZF 9HP,,K120,AQ300
-Ângulo central,,"21,2 graus",,,"20,1 graus"
-Área frontal (A),,"2,54 m2",,,
-Área frontal corrigida,,"0,889 m2",,,
-Câmera traseira para manobr,,Presente,,,
-Cintos de três pontos para todos os ocupantes,,Presente,,Presente,
-Encosto de cabeça para todo,,Presente,,Presente,
-Faróis com regulagem de altura,,Presente,Presente,Presente,
-Faróis de neblina,,Presente,Presente,Presente,
-Repetidores laterais das luze,,Presente,,,Presente
-Desembaçador do vidro trase,,Presente,,Presente,
-Monitoramento de pressão do,,Presente,,,Presente
-Sensores de estacionamento,,Presente,,Presente,Presente
-Indicador de fadiga,,Presente,Presente,,Presente
-Assistente de permanência e,,Presente,,Presente,
-Frenagem automática de emergência,,Presente,Presente,Presente,
-Chamada de assistência de e,,Presente,,Presente,
-Tração integral,,Presente,,,
-Freios a disco nas quatro rodas,,Presente,Presente,,Presente
-Saída de ar para o banco tras,,Presente,,,
-Banco do motorista com ajus,,Presente,,,
-Apoio de braço central no ban,,Presente,,,
-Assistente de estacionamento,,Presente,,,
-Ajuste do volante em profund,,Presente,,Presente,Presente
-Cintos de segurança com ajuste de altura,,Presente,,Presente,Presente
-Banco do motorista com ajuste elétrico,,Presente,,Presente,
-Banco do passageiro com aju,,Presente,,,
-Ajuste de apoio lombar para o motorista,,Presente,Presente,,Presente
-Assistente de centralização e,,Presente,,Presente,
-Faróis com acendimento auto,,Presente,,,
-Ajuste elétrico dos retrovisore,,Presente,,,
-Troca de marchas no volante,,Presente,Presente,Presente,Presente
-Destravamento interno/remoto do porta-malas,,Presente,,,Presente
-Destravamento interno da tampa de combustível,,Presente,,Presente,Presente
-Porta-luvas/console climatizado,,Presente,Presente,,Presente
-Freio de estacionamento elet,,Presente,,,
-Tomada de 110/220 volts,,Presente,,,
-Termômetro do líquido de arre,,Presente,,,Presente
-Indicador de temperatura externa,,Presente,,Presente,Presente
-Espelhamento da tela do celu,,Presente,,Presente,Presente
-Roteador Wi-Fi,,Presente,,Presente,
-Sistema de som premium Beats,,Presente,,,
-Informações do veículo atravé,,Presente,,,
-"Razão de compressão 10,5",,,1,,
-Potência máxima - cv (A),,,156 cv (G,167 cv (G,150 cv (G
-Potência máxima - Viscosidade do óleo,,,5W-403,0W-20 ou 5W-303,5W-403
-Câmbio Automatizado de,,,6 m,,
-Traseira,,,Eixo de torção,Eixo de torção,
-"11,2",,,km/l (G),km/l (G),
-"13,6",,,km/l (G),,
-560,,,km (G),,
-680,,,km (G),,
-Câmeras para visão de 360 graus,,,Presente,,
-Limpador e lavador do vidro tras,,,Presente,,
-Repetidores laterais das luzes d,,,Presente,,
-Desembaçador do vidro traseiro,,,Presente,,Presente
-Sensores de estacionamento di,,,Presente,,
-Assistente de permanência em,,,Presente,,
-Assistência na recuperação veic,,,Presente,,
-Saída de ar para o banco traseiro,,,Presente,Presente,Presente
-Banco do motorista com ajuste de altura,,,Presente,Presente,Presente
-Apoio de braço central no banco traseiro,,,Presente,Presente,Presente
-Assistente de estacionamento semiautomático,,,Presente,,
-Cintos de segurança com ajuste,,,Presente,,
-Banco do motorista com memór,,,Presente,,
-Banco do motorista com massa,,,Presente,,
-Assistente de centralização em faixa,,,Presente,,
-Faróis com acendimento automático,,,Presente,Presente,Presente
-Limpador de para-brisa automá,,,Presente,,
-Retrovisores rebativeis eletricam,,,Presente,,
-Destravamento interno/remoto d,,,Presente,,
-Destravamento interno da tamp,,,Presente,,
-Capô sustentado por mola a gá,,,Presente,,
-Termômetro do líquido de arrefecimento,,,Presente,,
-Indicador de temperatura extern,,,Presente,,
-Informação de trânsito em temp,,,Presente,,
-Sistema de som premium Harm,,,Presente,,
-Informações do veículo através,,,Presente,,
-Alimentação Injeção direta e indi,,,,Presente,
-Razão de compressão 13,,,,1,
-Câmbio CVT de,,,,10 marchas,
-Reboque sem freio,,,,700 kg,
-Reboque com freio,,,,700 kg,
-13,,,,km/l (G),
-526,,,,km (G),
-611,,,,km (G),
-Câmeras para visão de 360 g,,,,Presente,
-Travamento central das porta,,,,Presente,
-Assistente de partida em ram,,,,Presente,
-Sensores de estacionamento dianteiro,,,,Presente,
-Freios a disco nas quatro rod,,,,Presente,
-Frenagem automática em ma,,,,Presente,
-Apoio de braço para o motori,,,,Presente,Presente
-Limpador de para-brisa autom,,,,Presente,Presente
-Retrovisores rebativeis eletric,,,,Presente,
-Destravamento interno/remot,,,,Presente,
-Termômetro do líquido de arr,,,,Presente,
-Informação de trânsito em te,,,,Presente,
-Latin,,,,,NCAP
-Câmbio Automático de,,,,,8 ma
-"11,1",,,,,km/l (G)
-"13,3",,,,,km/l (G)
-533,,,,,km (G)
-638,,,,,km (G)
-Cintos de três pontos para tod,,,,,Presente
-Faróis com regulagem de altu,,,,,Presente
-ISOFIX para fixação de cadei,,,,,Presente
-Frenagem automática de eme,,,,,Presente
-Vetorização de torque,,,,,Presente
-Banco do motorista com ajust,,,,,Presente
-Suspensão independente nas quatro rodas,,,,,Presente
+﻿Atributo veicular,BYD Song Plus GS 1.5 2027,BYD Song Plus Premium 1.5 AWD 2027,Jeep Compass Night Eagle 1.3 2026,Jeep Compass Sport 1.3 2026,Renault Boreal Evolution 1.3 2026,Renault Boreal Iconic 1.3 2026,Renault Boreal Techno 1.3 2026,Toyota Corolla Cross XRE 2.0 2027,Toyota Corolla Cross XRX 2.0 2027,Toyota Corolla Cross XRX Hybrid 1.8 2027,Volkswagen Taos Comfortline 1.4 TSi 2026,Volkswagen Taos Highline 1.4 TSi 2026
+Ano,2027,2027,2026,2026,2026,2026,2026,2027,2027,2027,2026,2026
+Preço,R$ 249.990,R$ 299.800,R$ 205.490,R$ 174.990,R$ 179.990,R$ 214.990,R$ 199.990,R$ 194.790,R$ 211.790,R$ 223.790,R$ 199.990,R$ 209.990
+IPVA,R$ 10.000,R$ 11.992,R$ 8.220,R$ 7.000,R$ 7.200,R$ 8.600,R$ 8.000,R$ 7.792,R$ 8.472,R$ 8.952,R$ 8.000,R$ 8.400
+Seguro,R$ 6.750,R$ 8.095,R$ 5.548,R$ 4.725,R$ 4.860,R$ 5.805,R$ 5.400,R$ 5.259,R$ 5.718,R$ 6.042,R$ 5.400,R$ 5.670
+Revisões,R$ 6.383 até 60.000 km,R$ 6.383 até 60.000 km,R$ 5.268 até 60.000 km,R$ 5.268 até 60.000 km,R$ 6.316 até 60.000 km,R$ 6.316 até 60.000 km,R$ 6.316 até 60.000 km,R$ 4.782 até 50.000 km,R$ 4.782 até 50.000 km,R$ 4.782 até 50.000 km,R$ 3.331 até 60.000 km,R$ 3.331 até 60.000 km
+Procedência,Importado,Importado,Nacional,Nacional,Nacional,Nacional,Nacional,Nacional,Nacional,Nacional,Importado,Importado
+Garantia,6 anos,6 anos,5 anos,5 anos,5 anos,5 anos,5 anos,10 anos,10 anos,10 anos,3 anos,3 anos
+Porte,Médio,Médio,Médio,Médio,Médio,Médio,Médio,Médio,Médio,Médio,Médio,Médio
+Lugares,5,5,5,5,5,5,5,5,5,5,5,5
+Portas,4,4,4,4,4,4,4,4,4,4,4,4
+Série,Ocean,Ocean,,,,,,,,,,
+Índice,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW
+Euro,NCAP,NCAP,,,,,,,,,,
+Ranking,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW,CNW
+Instalação,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro,Dianteiro
+Aspiração,Turbocompressor,Turbocompressor,Turbocompressor,Turbocompressor,Turbocompressor,Turbocompressor,Turbocompressor,Natural,Natural,Natural,Turbocompressor,Turbocompressor
+Disposição,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal,Transversal
+Alimentação,Injeção multiponto,Injeção multiponto,Injeção direta,Injeção direta,Injeção direta,Injeção direta,Injeção direta,,,Injeção multiponto,Injeção direta,Injeção direta
+Cilindros,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha,4 em linha
+Tuchos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,Hidráulicos,,Hidráulicos,Hidráulicos
+Variação do comando,Admissão,Admissão,Admissão,Admissão,Admissão e escape,Admissão e escape,Admissão e escape,Admissão e escape,Admissão e escape,Admissão,Admissão e escape,Admissão e escape
+Acionamento comando,Corrente,Corrente,Corrente,Corrente,Corrente,Corrente,Corrente,Corrente,Corrente,Corrente,Correia dentada,Correia dentada
+Válvulas por cilindro,4,4,4,4,4,4,4,4,4,4,4,4
+cm3,Presente,Presente,,,,,,,,Presente,,
+cv a,6000 rpm,6000 rpm,,,,,,,,,,
+Torque máximo,"22,4 kgfm a 4500 rpm","22,4 kgfm a 4500 rpm",,,,,,,,"14,5 kgfm (A) 14,5 kgfm (G) a 3600 rpm",,
+Peso/potência,"13,77 kg/cv","15,54 kg/cv",,,,,,,,"14,36 kg/cv",,
+Torque específico,"15,0 kgfm/litro","15,0 kgfm/litro",,,,,,,,"8,1 kgfm/litro",,
+Peso/torque,"79,9 kg/kgfm","90,2 kg/kgfm",,,,,,,,"100,0 kg/kgfm",,
+Potência específica,"86,8 cv/litro","86,8 cv/litro",,,,,,,,"56,2 cv/litro",,
+Viscosidade do óleo,0W-203,0W-203,,,,,,,,0W-20 ou 5W-303,,
+Potência,204 cv (dianteiro),204 cv (dianteiro),,,,,,,,72 cv,,
+Torque,"30,6 kgfm (dianteiro)","30,6 kgfm (dianteiro)",,,,,,,,"16,6 kgfm",,
+Potência combinada,239 cv,324 cv,,,,,,,,122 cv,,
+Torque combinado,"40,8 kgfm","56,1 kgfm",,,,,,,,,,
+Peso/potência sistema,"7,49 kg/cv","6,23 kg/cv",,,,,,,,"11,89 kg/cv",,
+Peso/torque sistema,"43,87 kg/kgfm","36,01 kg/kgfm",,,,,,,,,,
+Autonomia,elétrica 99 km,elétrica 87 km,,,,,,,,,,
+Capacidade da bateria,"26,6 kWh","26,6 kWh",,,,,,,,"1,3 kWh",,
+Potência de recarga,"6,6 kW (AC)","6,6 kW (AC)",,,,,,,,,,
+Tração,Dianteira,Integral sob demanda,Dianteira,Dianteira,Dianteira,Dianteira,Dianteira,Dianteira,Dianteira,Dianteira,Dianteira,Dianteira
+Câmbio Automático de,1 marcha,1 marcha,6 marchas,6 marchas,,,,,,1 marcha,8 marchas,8 marchas
+Acoplamento,Embreagem multidisco,Embreagem multidisco,Conversor de torque,Conversor de torque,,,,Conversor de torque,Conversor de torque,Engrenagem planetária,Conversor de torque,Conversor de torque
+"Dianteira Independente,",McPherson,McPherson,McPherson,McPherson,McPherson,McPherson,McPherson,McPherson,McPherson,McPherson,McPherson,McPherson
+Elemento elástico,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal,Mola helicoidal
+"Traseira Independente,",multibraço,multibraço,McPherson,McPherson,,,,,,,multibraço,multibraço
+Dianteiros,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado,Disco ventilado
+Traseiros,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido,Disco sólido
+Assistência,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica,Elétrica
+Diâmetro de giro,11 m,11 m,"11,3 m","11,3 m",11 m,11 m,11 m,11 m,11 m,11 m,"11,5 m","11,5 m"
+Altura do flanco,118 mm,118 mm,124 mm,124 mm,124 mm,113 mm,124 mm,113 mm,113 mm,113 mm,118 mm,106 mm
+Estepe,Kit de reparo,Kit de reparo,165/80 R17,165/80 R17,Presente,Presente,Presente,155/70 R17,155/70 R17,155/70 R17,125/70 R18,125/70 R18
+mm,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Largura,1890 mm,1890 mm,1819 mm,1819 mm,1841 mm,1841 mm,1841 mm,1825 mm,1825 mm,1825 mm,1841 mm,1841 mm
+Distância entre-eixos,2765 mm,2765 mm,2636 mm,2636 mm,2702 mm,2702 mm,2702 mm,2640 mm,2640 mm,2640 mm,2680 mm,2680 mm
+Altura,1670 mm,1670 mm,1628 mm,1632 mm,1646 mm,1646 mm,1646 mm,1620 mm,1620 mm,1620 mm,1626 mm,1626 mm
+Bitola,dianteira 1630 mm,dianteira 1630 mm,dianteira 1550 mm,dianteira 1550 mm,dianteira 1560 mm,dianteira 1560 mm,dianteira 1560 mm,dianteira 1559 mm,dianteira 1559 mm,dianteira 1559 mm,dianteira 1570 mm,dianteira 1570 mm
+Porta-malas,552 litros,552 litros,410 litros,410 litros,522 litros,522 litros,522 litros,440 litros,440 litros,440 litros,498 litros,498 litros
+Tanque de combustível,57 litros,57 litros,55 litros,55 litros,50 litros,50 litros,50 litros,47 litros,47 litros,36 litros,48 litros,48 litros
+kg,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Carga útil,410 kg,,400 kg,400 kg,,,,450 kg,450 kg,450 kg,464 kg,464 kg
+Ângulo de entrada,19 graus,,"21,5 graus","20,9 graus","22,2 graus","22,2 graus","22,2 graus",21 graus,21 graus,21 graus,19 graus,19 graus
+Ângulo de saída,21 graus,,"30,7 graus","31,4 graus","26,6 graus","26,6 graus","26,6 graus",36 graus,36 graus,36 graus,"26,3 graus","26,3 graus"
+Altura mínima do solo,180 mm,180 mm,205 mm,209 mm,213 mm,213 mm,213 mm,161 mm,161 mm,161 mm,185 mm,185 mm
+Velocidade máxima,180 km/h,180 km/h,206 km/h,207 km/h,180 km/h,180 km/h,180 km/h,195 km/h,195 km/h,170 km/h,197 km/h,197 km/h
+Aceleração,"0-100 km/h 8,1 s","0-100 km/h 5,2 s","0-100 km/h 10,3 s","0-100 km/h 8,8 s","0-100 km/h 9,5 s","0-100 km/h 9,5 s","0-100 km/h 9,5 s","0-100 km/h 9,8 s","0-100 km/h 9,8 s",0-100 km/h 13 s,0-100 km/h 9 s,0-100 km/h 9 s
+Urbano,"14,3 km/l","12,2 km/l","7,3 km/l (A)","7,3 km/l (A)","7,8 km/l (A)","7,8 km/l (A)","7,8 km/l (A)","7,6 km/l (A)","7,6 km/l (A)","11,6 km/l (A)","7,7 km/l (A)","7,7 km/l (A)"
+Rodoviário,"11,3 km/l","10,1 km/l","8,6 km/l (A)","8,6 km/l (A)","9,4 km/l (A)","9,4 km/l (A)","9,4 km/l (A)","8,8 km/l (A)","8,8 km/l (A)","9,9 km/l (A)","9,3 km/l (A)","9,3 km/l (A)"
+Urbana,815 km,695 km,402 km (A),402 km (A),390 km (A),390 km (A),390 km (A),357 km (A),357 km (A),418 km (A),370 km (A),370 km (A)
+Rodoviária,644 km,576 km,473 km (A),473 km (A),470 km (A),470 km (A),470 km (A),414 km (A),414 km (A),356 km (A),446 km (A),446 km (A)
+Freios ABS,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Airbags frontais,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Airbags laterais,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Airbags de cortina,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Alarme antifurto perimétrico,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Alarme antifurto volumétrico,Presente,Presente,,,,,,Presente,Presente,Presente,Presente,Presente
+Câmera traseira para manobras,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Câmeras para visão de 360 graus,Presente,Presente,,,,Presente,,,Presente,Presente,,
+Câmera com função de chassi transparente,Presente,Presente,,,,,,,,,,
+Cintos de três pontos para todos os ocupantes,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Encosto de cabeça para todos os ocupantes,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Faróis de LED,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Faróis com refletores duplos,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Faróis com regulagem de altura,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Limpador e lavador do vidro traseiro,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Luz de neblina traseira,Presente,Presente,,,Presente,Presente,Presente,Presente,Presente,Presente,,
+Repetidores laterais das luzes de direção,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Travamento central das portas,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Assistente de desembarque,Presente,Presente,,,,Presente,Presente,,,,,
+Luz de condução diurna,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Desembaçador do vidro traseiro,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+ISOFIX para fixação de cadeira infantil,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Alerta de colisão frontal,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Alerta de tráfego cruzado traseiro,Presente,Presente,,,,Presente,Presente,,Presente,Presente,,Presente
+Monitoramento de pressão dos pneus,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Assistente de partida em rampa,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Sensores de estacionamento dianteiro,Presente,Presente,,,,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Sensores de estacionamento traseiro,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Assistente de farol alto,Presente,Presente,Presente,Presente,,Presente,,Presente,Presente,Presente,Presente,Presente
+Alerta de ponto cego,Presente,Presente,,,,Presente,Presente,,Presente,Presente,,Presente
+Alerta de mudança de faixa,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,Presente
+Assistente de permanência em faixa,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,Presente
+Frenagem automática de emergência,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Assistência na recuperação veicular,Presente,Presente,Presente,,,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Freios a disco nas quatro rodas,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Frenagem automática em manobras,Presente,Presente,,,,,,,Presente,Presente,Presente,Presente
+Ar-condicionado,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Ionizador/purificador de ar,Presente,Presente,Presente,Presente,,,,,,,,
+Zonas de ar-condicionado,2,2,2,2,2,2,2,1,2,2,2,2
+Ar quente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Saída de ar para o banco traseiro,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Direção assistida,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Banco do motorista com ajuste de altura,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Apoio de braço para o motorista,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Apoio de braço central no banco traseiro,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Câmbio automático,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Ajuste do volante em altura,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Ajuste do volante em profundidade,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Cintos de segurança com ajuste de altura,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Bancos revestidos em couro,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,Presente
+Banco do motorista com ajuste elétrico,Presente,Presente,,,,Presente,Presente,,Presente,Presente,Presente,Presente
+Banco do passageiro com ajuste elétrico,Presente,Presente,,,,Presente,Presente,,,,,
+Banco do motorista com ventilação,Presente,Presente,,,,,,,,,,
+Ajuste de velocidade conforme sinalização viária,Presente,Presente,,,,,,,,,,
+Assistente de centralização em faixa,Presente,Presente,Presente,Presente,,Presente,,Presente,Presente,Presente,,Presente
+Limitador de velocidade,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,,,Presente,Presente
+Faróis com acendimento automático,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Limpador de para-brisa automático,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Ajuste elétrico dos retrovisores,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Retrovisores rebativeis eletricamente,Presente,Presente,,,Presente,Presente,Presente,Presente,Presente,Presente,,Presente
+Retrovisor interno fotocrômico,Presente,Presente,Presente,,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Retrovisor externo com aquecimento,Presente,Presente,,,,,,,,,,Presente
+Rodas de liga leve,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Teto solar elétrico,Presente,Presente,Presente,Presente,,Presente,Presente,,Presente,Presente,,Presente
+Teto panorâmico,Presente,Presente,Presente,Presente,,Presente,Presente,,,,,Presente
+Banco traseiro bipartido,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Banco traseiro rebatível,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Banco traseiro reclinável,Presente,Presente,,,,,,Presente,Presente,Presente,,
+Destravamento interno/remoto do porta-malas,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Luz no porta-malas,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Luz no porta-luvas,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,,,Presente,Presente
+Luz de teto traseira,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Destravamento interno da tampa de combustível,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Chave presencial,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Chave digital via NFC ou Bluetooth,Presente,Presente,,,,,,,,,,
+Sistema start-stop,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,,Presente,Presente,Presente
+Recuperação de energia cinética,Presente,Presente,,,,,,,,Presente,,
+Carregamento bidirecional,Presente,Presente,,,,,,,,,,
+Acionamento remoto do motor,Presente,Presente,Presente,,,Presente,Presente,,,,,
+Freio de estacionamento eletromecânico,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Auto Hold,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,
+Tampa traseira motorizada,Presente,Presente,,,,Presente,,,Presente,Presente,,
+Alças de segurança no teto,Presente,Presente,Presente,Presente,Presente,,Presente,Presente,Presente,Presente,Presente,Presente
+Capô sustentado por mola a gás,Presente,Presente,,,Presente,Presente,Presente,,,,,
+Suspensão independente nas quatro rodas,Presente,Presente,Presente,Presente,,,,,,,Presente,Presente
+Rádio,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Tomada de 12 volts,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Navegador GPS,Presente,Presente,Presente,,,Presente,Presente,,,,,
+Volante multifuncional,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Indicador de temperatura externa,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Espelhamento da tela do celular,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Sistema Google integrado,Presente,Presente,,,,Presente,Presente,,,,,
+Carregador de celular por indução,Presente,Presente,Presente,,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Informação de trânsito em tempo real,Presente,Presente,Presente,,,Presente,Presente,Presente,Presente,Presente,,
+Reconhecimento de placas de trânsito,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,,,,
+Sistema de som premium Infinity,Presente,Presente,,,,,,,,,,
+Subwoofer,Presente,Presente,,,,,,,,,,Presente
+Head-up display,Presente,Presente,,,,,,,,,,
+Leitor de cartão de memória,Presente,Presente,,,,,,,,,,
+Informações do veículo através de aplicativo,Presente,Presente,Presente,,,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+"0,95 s",Presente,,,,,,,,,,,
+Tração integral,,Presente,,,,,,,,,,
+Banco do motorista com aquecimento,,Presente,,,,,,,,,,
+"0,63 s",,Presente,,,,,,,,,,
+Propulsão,,,Combustão,Combustão,Combustão,Combustão,Combustão,Combustão,Combustão,,Combustão,Combustão
+Geração,,,2,2,,,,,,,,
+Plataforma,,,Small Wide,Small Wide,RGMP,RGMP,RGMP,TNGA,TNGA,TNGA,MQB,MQB
+Cilindrada unitária,,,333 cm3,333 cm3,333 cm3,333 cm3,333 cm3,497 cm3,497 cm3,449 cm3,349 cm3,349 cm3
+Diâmetro do cilindro,,,70 mm,70 mm,"72,2 mm","72,2 mm","72,2 mm","80,5 mm","80,5 mm","80,5 mm","74,5 mm","74,5 mm"
+"Razão de compressão 10,5",,,1,1,1,1,1,,,,,
+Curso do pistão,,,"86,5 mm","86,5 mm","81,4 mm","81,4 mm","81,4 mm","97,6 mm","97,6 mm","88,3 mm",80 mm,80 mm
+Deslocamento - cm3,,,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,Presente,Presente
+Potência máxima - cv (A),,,176 cv (G) a 5750 rpm,176 cv (G) a 5750 rpm,156 cv (G) a 5250 rpm,156 cv (G) a 5250 rpm,156 cv (G) a 5250 rpm,167 cv (G) a 6600 rpm,167 cv (G) a 6600 rpm,,150 cv (G) a 5000 rpm,150 cv (G) a 5000 rpm
+Potência máxima - Código do motor,,,T270,T270,HR13,HR13,HR13,M20A-FKB,M20A-FKB,,EA211,EA211
+Potência máxima - Torque máximo,,,"27,5 kgfm (A) 27,5 kgfm (G) a 1750 rpm","27,5 kgfm (A) 27,5 kgfm (G) a 1750 rpm","27,5 kgfm (A) 27,5 kgfm (G) a 1750 rpm","27,5 kgfm (A) 27,5 kgfm (G) a 1750 rpm","27,5 kgfm (A) 27,5 kgfm (G) a 1750 rpm","21,3 kgfm (A) 20,8 kgfm (G) a 4400 rpm","21,3 kgfm (A) 20,8 kgfm (G) a 4400 rpm",,"25,5 kgfm (A) 25,5 kgfm (G) a 1500 rpm","25,5 kgfm (A) 25,5 kgfm (G) a 1500 rpm"
+Potência máxima - Peso/potência,,,"9,01 kg/cv","8,55 kg/cv","8,52 kg/cv","8,82 kg/cv","8,73 kg/cv","8,11 kg/cv","8,11 kg/cv",,"9,71 kg/cv","9,71 kg/cv"
+Potência máxima - Torque específico,,,"20,6 kgfm/litro","20,6 kgfm/litro","20,6 kgfm/litro","20,6 kgfm/litro","20,6 kgfm/litro","10,7 kgfm/litro","10,7 kgfm/litro",,"18,3 kgfm/litro","18,3 kgfm/litro"
+Potência máxima - Peso/torque,,,"57,6 kg/kgfm","54,7 kg/kgfm","50,5 kg/kgfm","52,3 kg/kgfm","51,7 kg/kgfm","66,7 kg/kgfm","66,7 kg/kgfm",,"57,1 kg/kgfm","57,1 kg/kgfm"
+Potência máxima - Potência específica,,,"132,1 cv/litro","132,1 cv/litro","122,4 cv/litro","122,4 cv/litro","122,4 cv/litro","88,1 cv/litro","88,1 cv/litro",,"107,5 cv/litro","107,5 cv/litro"
+Potência máxima - Rotação máxima,,,6500 rpm,6500 rpm,6000 rpm,6000 rpm,6000 rpm,,,,6300 rpm,6300 rpm
+Potência máxima - Viscosidade do óleo,,,0W-303,0W-303,5W-403,5W-403,5W-403,0W-20 ou 5W-303,0W-20 ou 5W-303,,5W-403,5W-403
+Código do câmbio,,,Aisin AWF6F25,Aisin AWF6F25,,,,K120,K120,P610,AQ300,AQ300
+Ângulo central,,,"20,5 graus","20,8 graus",,,,,,,"20,1 graus","20,1 graus"
+Área frontal (A),,,"2,52 m2","2,52 m2",,,,,,,,
+Área frontal corrigida,,,"0,882 m2","0,882 m2",,,,,,,,
+"10,1",,,km/l (G),km/l (G),,,,,,,,
+"12,1",,,km/l (G),km/l (G),,,,,,,,
+556,,,km (G),km (G),,,,,,,,
+666,,,km (G),km (G),,,,,,,,
+Faróis de neblina,,,Presente,Presente,,Presente,Presente,Presente,Presente,Presente,,
+Indicador de fadiga,,,Presente,Presente,Presente,Presente,Presente,,,,Presente,Presente
+Chamada de assistência de emergência,,,Presente,,,,,Presente,Presente,Presente,,
+Troca de marchas no volante,,,Presente,Presente,Presente,Presente,Presente,Presente,Presente,,Presente,Presente
+Porta-luvas/console climatizado,,,Presente,,Presente,Presente,Presente,,,,Presente,Presente
+Termômetro do líquido de arrefecimento,,,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente,Presente
+Roteador Wi-Fi,,,Presente,,,,,Presente,Presente,Presente,,
+"0,64 s",,,Presente,,,,,,,,,
+"0,50 s",,,,Presente,,,,,Presente,,,Presente
+Câmbio Automatizado de,,,,,6 marchas,6 marchas,6 marchas,,,,,
+Acoplamento Embreagem dupla banhada a óleo,,,,,Presente,Presente,Presente,,,,,
+Traseira,,,,,Eixo de torção,Eixo de torção,Eixo de torção,Eixo de torção,Eixo de torção,Eixo de torção,,
+"11,2",,,,,km/l (G),km/l (G),km/l (G),km/l (G),km/l (G),,,
+"13,6",,,,,km/l (G),km/l (G),km/l (G),,,,,
+560,,,,,km (G),km (G),km (G),,,,,
+680,,,,,km (G),km (G),km (G),,,,,
+"0,48 s",,,,,Presente,,,,,Presente,,
+Assistente de estacionamento semiautomático,,,,,,Presente,,,,,,
+Banco do motorista com memórias de ajuste,,,,,,Presente,,,,,,
+Ajuste de apoio lombar para o motorista,,,,,,Presente,,,,,Presente,Presente
+Banco do motorista com massageador,,,,,,Presente,,,,,,
+Sistema de som premium Harman Kardon,,,,,,Presente,,,,,,
+"1,11 s",,,,,,Presente,,,,,,
+"0,45 s",,,,,,,Presente,,,,,
+Alimentação Injeção direta e indireta,,,,,,,,Presente,Presente,,,
+Razão de compressão 13,,,,,,,,1,1,1,,
+Câmbio CVT de,,,,,,,,10 marchas,10 marchas,,,
+Reboque sem freio,,,,,,,,700 kg,700 kg,400 kg,,
+Reboque com freio,,,,,,,,700 kg,700 kg,400 kg,,
+13,,,,,,,,km/l (G),km/l (G),,,
+526,,,,,,,,km (G),km (G),,,
+611,,,,,,,,km (G),km (G),,,
+"0,72 s",,,,,,,,Presente,,,,
+Flex,,,,,,,,,,(álcool/gasolina),,
+cv (A),,,,,,,,,,98 cv (G) a 5200 rpm,,
+Código do motor,,,,,,,,,,2ZR-FXB,,
+"16,6",,,,,,,,,,km/l (G),,
+14,,,,,,,,,,km/l (G),,
+598,,,,,,,,,,km (G),,
+504,,,,,,,,,,km (G),,
+Latin,,,,,,,,,,,NCAP,NCAP
+Razão de compressão 10,,,,,,,,,,,1,1
+"11,1",,,,,,,,,,,km/l (G),km/l (G)
+"13,3",,,,,,,,,,,km/l (G),km/l (G)
+533,,,,,,,,,,,km (G),km (G)
+638,,,,,,,,,,,km (G),km (G)
+Vetorização de torque,,,,,,,,,,,Presente,Presente
+"0,52 s",,,,,,,,,,,Presente,
